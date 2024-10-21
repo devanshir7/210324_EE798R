@@ -2,6 +2,12 @@
 # SPEECH EMOTION RECOGNITION WITH GLOBAL-AWARE FUSION ON MULTI-SCALE FEATURE REPRESENTATION
 Authors: Wenjing Zhu, Xiang Li
 
+
+## Code:
+1. Github Repo Link (Containing all scripts): https://github.com/devanshir7/GLAM/tree/main
+2. Colab Notebook Link: https://colab.research.google.com/drive/1GzW4PiMUZ6oNaWkpaTJWCGHx9gfpEZW8?usp=sharing 
+
+
 ## Instructions
 
 ## Preprocess
