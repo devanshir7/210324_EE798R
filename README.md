@@ -11,7 +11,7 @@ Implementation of the paper "SPEECH EMOTION RECOGNITION WITH GLOBAL-AWARE FUSION
 
 ## Training
 
-#### Use python train.py to train a new model.
+#### 1. Use python train.py to train a new model.
 
-#### Run directly: ./run(to make the script executable: chmod +x run) or bash run.
+#### 2. Run directly: ./run(to make the script executable: chmod +x run) or bash run.
 
