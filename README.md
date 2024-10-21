@@ -5,13 +5,13 @@ Implementation of the paper "SPEECH EMOTION RECOGNITION WITH GLOBAL-AWARE FUSION
 
 ## Preprocess
 
-### 1. Specify the path of IEMOCAP corpus in `path.py`
-### 2. Run `python handleIEMOCAP.py` to rename audio filenames.
-### 3. Run `python seeds.py` to generate seeds.
+#### 1. Specify the path of IEMOCAP corpus in `path.py`
+#### 2. Run `python handleIEMOCAP.py` to rename audio filenames.
+#### 3. Run `python seeds.py` to generate seeds.
 
 ## Training
 
-### Use python train.py to train a new model.
+#### Use python train.py to train a new model.
 
-### Run directly: ./run(to make the script executable: chmod +x run) or bash run.
+#### Run directly: ./run(to make the script executable: chmod +x run) or bash run.
 
