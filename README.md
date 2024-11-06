@@ -41,4 +41,6 @@ Authors: Wenjing Zhu, Xiang Li
  2. Use python `train.py` to train a new model.
  3. Run directly: ./run(to make the script executable: chmod +x run) or bash run.
 
+## Note-
+Requirements remain same for both phases
 
